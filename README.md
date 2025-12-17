@@ -7,13 +7,13 @@ This README explains how to set up and run the `TaskMansagement` ASP.NET Core We
 - SQL Server LocalDB (installed with Visual Studio)
 - Optional: `dotnet-ef` tool for migrations: `dotnet tool install --global dotnet-ef`
 ## Packages Install
-Microsoft.EntityFrameworkCore.SqlServer
-Microsoft.EntityFrameworkCore.Tools
-xunit
-xunit.runner.visualstudio
-Moq
-Microsoft.EntityFrameworkCore.InMemory
-FluentAssertions
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
+- xunit
+- xunit.runner.visualstudio
+- Moq
+- Microsoft.EntityFrameworkCore.InMemory
+- FluentAssertions
 
 
 ## Setup
